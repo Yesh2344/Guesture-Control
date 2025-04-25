@@ -16,3 +16,4 @@ A real-time hand gesture control system built with React, TensorFlow.js, and Con
 - **Mode Switching**: Show full hand (5 fingers) to toggle between cursor and scroll modes
 - **Scroll Action**: Three-finger grab gesture to scroll up/down
 - **Visual Indicators**: Pulsing cursor effect in scroll mode
+
