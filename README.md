@@ -17,3 +17,18 @@ A real-time hand gesture control system built with React, TensorFlow.js, and Con
 - **Scroll Action**: Three-finger grab gesture to scroll up/down
 - **Visual Indicators**: Pulsing cursor effect in scroll mode
 
+### 🔄 Interactive Features
+- Real-time gesture recognition
+- Mode switching with visual feedback
+- Toast notifications for actions
+- Gesture history logging
+- Interactive UI elements for testing
+
+## Technology Stack
+
+- **Frontend**: React + Vite
+- **Styling**: TailwindCSS
+- **Hand Detection**: TensorFlow.js + MediaPipe Hands
+- **Backend & Real-time Updates**: Convex
+- **Authentication**: Convex Auth
+- **Notifications**: Sonner
