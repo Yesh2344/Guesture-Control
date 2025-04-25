@@ -50,3 +50,28 @@ A real-time hand gesture control system built with React, TensorFlow.js, and Con
 - NPM or Yarn
 - Webcam
 - Modern browser (Chrome recommended)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone <your-repo-url>
+cd gesture-control-interface
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Set up Convex:
+```bash
+npx convex dev
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open your browser and navigate to `http://localhost:5173`
