@@ -32,3 +32,21 @@ A real-time hand gesture control system built with React, TensorFlow.js, and Con
 - **Backend & Real-time Updates**: Convex
 - **Authentication**: Convex Auth
 - **Notifications**: Sonner
+
+
+## Gesture Guide
+
+| Gesture | Action | Mode |
+|---------|--------|------|
+| ☝️ Index Finger Up | Move Cursor | Cursor Mode |
+| 🫰 Quick Forward Motion | Click | Cursor Mode |
+| 🖐️ Full Hand | Switch Modes | Both |
+| ✌️ Three-Finger Grab | Scroll | Scroll Mode |
+
+## Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- NPM or Yarn
+- Webcam
+- Modern browser (Chrome recommended)
