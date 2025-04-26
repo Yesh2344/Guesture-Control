@@ -119,3 +119,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - TensorFlow.js team for the hand pose detection model
 - MediaPipe team for the hand tracking solution
 - Convex team for the real-time backend platform
+
+## Future Enhancements
+
+- Additional gesture controls
+- Customizable gesture mappings
+- Support for two-handed gestures
+- Gesture recording and playback
+- Accessibility improvements
