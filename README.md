@@ -87,3 +87,14 @@ npm run dev
 
 ### Hand Detection
 The system uses TensorFlow.js and MediaPipe Hands for real-time hand pose detection, tracking 21 3D landmarks on each hand.
+
+### Gesture Recognition
+- **Pointing**: Detected when index finger is raised above its base while other fingers are lowered
+- **Clicking**: Triggered by rapid forward motion while pointing
+- **Mode Switch**: Detected when all five fingers are extended
+- **Scrolling**: Activated when three fingers are raised in scroll mode
+
+### State Management
+- Real-time gesture state managed with React hooks
+- Persistent gesture history stored in Convex backend
+- Authentication state handled by Convex Auth
