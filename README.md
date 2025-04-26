@@ -105,3 +105,17 @@ The system uses TensorFlow.js and MediaPipe Hands for real-time hand pose detect
 - Debounced click detection prevents accidental triggers
 - Optimized coordinate mapping for accurate cursor positioning
 - Efficient real-time updates using Convex's reactive backend
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- TensorFlow.js team for the hand pose detection model
+- MediaPipe team for the hand tracking solution
+- Convex team for the real-time backend platform
