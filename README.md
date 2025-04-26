@@ -98,3 +98,10 @@ The system uses TensorFlow.js and MediaPipe Hands for real-time hand pose detect
 - Real-time gesture state managed with React hooks
 - Persistent gesture history stored in Convex backend
 - Authentication state handled by Convex Auth
+
+## Performance Considerations
+
+- Gesture detection runs in a requestAnimationFrame loop for smooth performance
+- Debounced click detection prevents accidental triggers
+- Optimized coordinate mapping for accurate cursor positioning
+- Efficient real-time updates using Convex's reactive backend
