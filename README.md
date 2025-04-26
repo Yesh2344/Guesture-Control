@@ -75,3 +75,15 @@ npm run dev
 ```
 
 5. Open your browser and navigate to `http://localhost:5173`
+
+### Usage
+
+1. Sign in using the authentication form
+2. Allow camera access when prompted
+3. Use the gestures described in the Gesture Guide above
+4. View your gesture history in the Recent Gestures section
+
+## Technical Implementation
+
+### Hand Detection
+The system uses TensorFlow.js and MediaPipe Hands for real-time hand pose detection, tracking 21 3D landmarks on each hand.
