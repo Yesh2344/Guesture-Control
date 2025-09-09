@@ -6,11 +6,6 @@ A real-time hand gesture control system built with React, TensorFlow.js, and Con
 
 ## Features
 
-### 🖱️ Cursor Control Mode
-- **Cursor Movement**: Control cursor position with your index finger
-- **Click Action**: Quick forward motion with index finger triggers a click
-- **Visual Feedback**: Dynamic cursor color changes based on gesture type
-- **Real-time Tracking**: Smooth cursor following with gesture detection
 
 ### 📜 Scroll Mode
 - **Mode Switching**: Show full hand (5 fingers) to toggle between cursor and scroll modes
