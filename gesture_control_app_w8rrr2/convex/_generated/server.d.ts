@@ -40,6 +40,7 @@ export declare const query: QueryBuilder<DataModel, "public">;
  * @returns The wrapped query. Include this as an `export` to name it and make it accessible.
  */
 export declare const internalQuery: QueryBuilder<DataModel, "internal">;
+# Added comment
 
 /**
  * Define a mutation in this Convex app's public API.
